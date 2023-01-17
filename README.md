@@ -1,16 +1,25 @@
-# girisapp
+# BEKLET - An Android App
 
-A new Flutter project.
+Bu belge, GitHub kullanımıyla ilgili giriş seviyesinde bir tanıtım amacıyla hazırlanmıştır.
 
-## Getting Started
+## What is Beklet?
 
-This project is a starting point for a Flutter application.
+Beklet is an Android app that was developed for a school course by 6 member of a team. With this project, it is aimed to facilitate the work of students studying YKS (an exam in Turkey). With Flutter technology, Firestore was used to store datas for this project.
 
-A few resources to get you started if this is your first Flutter project:
+### Imaages for my part.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+[![Alt text]([https://img.youtube.com/vi/fnxi12JLhNY/0.jpg)](https://www.youtube.com/watch?v=fnxi12JLhNY](https://github.com/byfad51/Flutter_Team_Project/blob/master/images/1.PNG))
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[![Alt text]([https://img.youtube.com/vi/fnxi12JLhNY/0.jpg)](https://www.youtube.com/watch?v=fnxi12JLhNY](https://github.com/byfad51/Flutter_Team_Project/blob/master/images/2.PNG))
+
+[![Alt text]([https://img.youtube.com/vi/fnxi12JLhNY/0.jpg)](https://www.youtube.com/watch?v=fnxi12JLhNY](https://github.com/byfad51/Flutter_Team_Project/blob/master/images/3.PNG))
+
+[![Alt text]([https://img.youtube.com/vi/fnxi12JLhNY/0.jpg)](https://www.youtube.com/watch?v=fnxi12JLhNY](https://github.com/byfad51/Flutter_Team_Project/blob/master/images/4.PNG))
+
+[![Alt text]([https://img.youtube.com/vi/fnxi12JLhNY/0.jpg)](https://www.youtube.com/watch?v=fnxi12JLhNY](https://github.com/byfad51/Flutter_Team_Project/blob/master/images/5.PNG))
+
+[![Alt text]([https://img.youtube.com/vi/fnxi12JLhNY/0.jpg)](https://www.youtube.com/watch?v=fnxi12JLhNY](https://github.com/byfad51/Flutter_Team_Project/blob/master/images/6.PNG))
+
+[![Alt text]([https://img.youtube.com/vi/fnxi12JLhNY/0.jpg)](https://www.youtube.com/watch?v=fnxi12JLhNY](https://github.com/byfad51/Flutter_Team_Project/blob/master/images/7.PNG))
+
+### Imaages for others.
