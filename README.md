@@ -17,7 +17,7 @@ In this project, the parts I made is login page, register page, profile page (se
 
 
 
-### Imaages for my part.
+### Imaages for my part (FATİH DUYAR).
 
 ![login page](https://github.com/byfad51/Flutter_Team_Project/blob/master/images/1.PNG)
 
